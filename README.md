@@ -23,7 +23,7 @@ Wikipedia: It is used to fetch a variety of information from the Wikipedia websi
 
 ⭐ Links : 
 
-Link to Youtube Video : https://www.youtube.com/c/Proxlight
+Link to Youtube Video : https://youtu.be/wC14fHOi5ls
 
 Link to our Store : https://proxlightapps.gumroad.com
 
