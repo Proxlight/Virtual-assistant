@@ -1,5 +1,4 @@
-# Virtual-assistant
-Virtual Assistant Using Python
+# Virtual Assistant Using Python 😊
 
 Hi everyone👋, a virtual desktop assistant is an awesome thing. If you want your machine to run on your command as Jarvis did for Tony. Yes, it is possible. It is possible using Python. Python offers a good major library so that we can use it for making a virtual assistant. Windows has Sapi5 and Linux has Espeak which can help us in having the voice from our machine. It is a weak A.I.
 
@@ -33,3 +32,5 @@ Link to The Hash Node article : https://proxlight.hashnode.dev/build-a-virtual-a
 Link  to our Dribbble page : https://dribbble.com/Proxlight
 
 Follow us on Twitter : https://twitter.com/Proxlight1
+
+© 2022 Proxlight, Inc. All rights reserved.
